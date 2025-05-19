@@ -16,6 +16,10 @@
     text-decoration: none;
 }
 
+.menuIcon {
+    display: none;
+}
+
 .menu {
     display: flex;
 }
